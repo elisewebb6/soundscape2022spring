@@ -11,7 +11,3 @@
 * <div class="attribution-block"><a href="http://dig.ccmixter.org/files/airtone/60674">reNovation</a> by airtone (c) copyright 2019 Licensed under a Creative Commons <a href="http://creativecommons.org/licenses/by/3.0/">Attribution (3.0)</a> license. </div>
 
 * <div class="attribution-block"><a href="http://dig.ccmixter.org/files/septahelix/60779">Babylonian Time Cube</a> by septahelix (c) copyright 2019 Licensed under a Creative Commons <a href="http://creativecommons.org/licenses/by-nc/3.0/">Attribution Noncommercial  (3.0)</a> license. Ft: speck, 7OOP3D, Apoxode</div>
-
-----
-
-* <div class="attribution-block">Soundscape Narrative Audacity Project by Tyller Barner, "Coffeeshop Conversations," updated to Audacity 3 based on publicly available <a href="https://github.com/pitt-cdm/soundscape--tyllerbarner">Audacity 2.x files on GitHub</a>. Used with permission for teaching purposes only; please do not circulate. For a more widely shareable .mp3 file, please use <a href="http://dmap.pitt.edu/node/248">Barner's Digital Media Showcase entry</a>.</div>

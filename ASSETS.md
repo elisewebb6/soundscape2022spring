@@ -18,4 +18,7 @@
 
 ["Creative Commons Music Box"](https://freesound.org/people/sound_designer_from_Turkey/sounds/613178/) by [sound_designer_from_Turkey](https://freesound.org/people/sound_designer_from_Turkey/) is licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
 
+["Creative Commons Snowfall final.mp3"](https://freesound.org/people/ShadyDave/sounds/262259/) by [ShadyDave](https://freesound.org/people/ShadyDave/) is licensed under [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/) CHanges:shortneed the sound 
+
+["Creative Commons CoupleLaughing.wav"](https://freesound.org/people/morningfrost/sounds/118486/) by [morningforst](https://freesound.org/people/morningfrost/) is licensed under [CC BY-NC 3.0](https://creativecommons.org/publicdomain/zero/1.0/)
 

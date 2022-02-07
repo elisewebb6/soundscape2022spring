@@ -8,5 +8,5 @@
 
 ["Creative Commons Guitar Background Sample](https://freesound.org/people/uEffects/sounds/327575/) by [uEffects](https://freesound.org/people/uEffects/) is licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) 
 
-
+["Creative Commons School Kids Walk.wav"](https://freesound.org/people/makosan/sounds/34716/) by [makosan](https://freesound.org/people/makosan/) is licensned under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
 

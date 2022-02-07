@@ -10,3 +10,8 @@
 
 ["Creative Commons School Kids Walk.wav"](https://freesound.org/people/makosan/sounds/34716/) by [makosan](https://freesound.org/people/makosan/) is licensned under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
 
+["Creative Commons kids young teenagers playing outside shouting echo soccer2.flac"](https://freesound.org/people/kyles/sounds/454060/) by [kyles](https://freesound.org/people/kyles/) is licensed by [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+
+["Creative Commons Typing_Sending_Text_Message.wav"](https://freesound.org/people/vcspran/sounds/344606/) by [vcspran](https://freesound.org/people/vcspran/) is licensed by [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+
+
